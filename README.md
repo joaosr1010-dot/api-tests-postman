@@ -26,7 +26,9 @@ https://jsonplaceholder.typicode.com/users
 Body (JSON):
 {
   "name": "Joaquim",
+  
   "username": "teste",
+  
   "email": "teste@email.com"
 }
 
@@ -36,9 +38,12 @@ https://jsonplaceholder.typicode.com/users/1
  Body (JSON):
 {
   "name": "Leanne Grapan",
+  
   "username": "Lea",
+  
   "email": "teste@email.com"
 }
+
 ### 5️⃣ DELETE – Deletar usuário
 https://jsonplaceholder.typicode.com/users/1
 
@@ -53,26 +58,35 @@ Observação: API retorna corretamente o status de recurso inexistente
 
 ## 🛠 Ferramentas utilizadas
 
-Postman,
+Postman
+
 GitHub
 
 ## 📚 Conceitos aplicados
 
-REST,
+REST
 
-Status code,
-Métodos HTTP (GET, POST, PUT, DELETE),
-Testes manuais de API,
-Testes positivos e negativos,
-Estruturação de Collections,
-Estrutura do JSON,
+Status code
+
+Métodos HTTP (GET, POST, PUT, DELETE)
+
+Testes manuais de API
+
+Testes positivos e negativos
+
+Estruturação de Collections
+
+Estrutura do JSON
+
 
 ## 💡 Observações
 
 Este projeto demonstra:
 
 Organização de requests em Collection
+
 Capacidade de identificar cenários negativos
+
 Documentação clara e objetiva
 
-## 📂 Projeto completo disponível no GitHub: https://github.com/joaosr1010-dot/api-tests-postman
+### 📂 Projeto completo disponível no GitHub: https://github.com/joaosr1010-dot/api-tests-postman
