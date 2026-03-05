@@ -6,7 +6,6 @@ Este projeto foi desenvolvido como atividade prática durante meus estudos para 
 O objetivo foi praticar testes manuais de API utilizando o Postman, aplicando conceitos de REST e métodos HTTP.  
 A API utilizada foi a pública **JSONPlaceholder**: [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com)
 
----
 
 ## 🔎 Endpoints testados
 
