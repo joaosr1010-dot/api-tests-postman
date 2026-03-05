@@ -53,18 +53,19 @@ Observação: API retorna corretamente o status de recurso inexistente
 
 ## 🛠 Ferramentas utilizadas
 
-Postman
+Postman,
 GitHub
 
 ## 📚 Conceitos aplicados
 
-REST
-Status code
-Métodos HTTP (GET, POST, PUT, DELETE)
-Testes manuais de API
-Testes positivos e negativos
-Estruturação de Collections
-Estrutura do JSON
+REST,
+
+Status code,
+Métodos HTTP (GET, POST, PUT, DELETE),
+Testes manuais de API,
+Testes positivos e negativos,
+Estruturação de Collections,
+Estrutura do JSON,
 
 ## 💡 Observações
 
