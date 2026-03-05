@@ -24,24 +24,30 @@ https://jsonplaceholder.typicode.com/users/1
 https://jsonplaceholder.typicode.com/users
 
 Body (JSON):
+
 {
+
   "name": "Joaquim",
   
   "username": "teste",
   
   "email": "teste@email.com"
+  
 }
 
 ### 4️⃣ PUT – Atualizar usuário
 https://jsonplaceholder.typicode.com/users/1
 
  Body (JSON):
+ 
 {
+
   "name": "Leanne Grapan",
   
   "username": "Lea",
   
   "email": "teste@email.com"
+  
 }
 
 ### 5️⃣ DELETE – Deletar usuário
@@ -49,12 +55,16 @@ https://jsonplaceholder.typicode.com/users/1
 
 
 ### ⚠️ Cenário Negativo Testado
+
 ## GET Usuário inexistente (teste negativo)
 https://jsonplaceholder.typicode.com/users/9999
 
 Resultado esperado: 404 Not Found
+
 Resultado obtido: 404 Not Found ✅
+
 Observação: API retorna corretamente o status de recurso inexistente
+
 
 ## 🛠 Ferramentas utilizadas
 
@@ -81,7 +91,7 @@ Estrutura do JSON
 
 ## 💡 Observações
 
-Este projeto demonstra:
+O Objetivo desse projeto foi demonstrar:
 
 Organização de requests em Collection
 
