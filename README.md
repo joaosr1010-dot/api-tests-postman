@@ -59,10 +59,12 @@ GitHub
 ## 📚 Conceitos aplicados
 
 REST
+Status code
 Métodos HTTP (GET, POST, PUT, DELETE)
 Testes manuais de API
 Testes positivos e negativos
 Estruturação de Collections
+Estrutura do JSON
 
 ## 💡 Observações
 
