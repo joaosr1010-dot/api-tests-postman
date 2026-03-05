@@ -99,4 +99,8 @@ Capacidade de identificar cenários negativos
 
 Documentação clara e objetiva
 
+----
+
 ### 📂 Projeto completo disponível no GitHub: https://github.com/joaosr1010-dot/api-tests-postman
+
+
